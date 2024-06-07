@@ -20,7 +20,7 @@ export default function TableData({tableData}) {
                 <TableCell ><b>Username</b></TableCell>
                 <TableCell ><b>Email</b></TableCell>
                 <TableCell ><b>Phone</b></TableCell>
-                <TableCell ><b>Adress</b></TableCell>
+                <TableCell ><b>Address</b></TableCell>
             </TableRow>
             </TableHead>
             <TableBody>
