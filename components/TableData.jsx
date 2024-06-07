@@ -37,7 +37,6 @@ export default function TableData({tableData}) {
                 <TableCell>{item.email}</TableCell>
                 <TableCell>{item.phone}</TableCell>
                 <TableCell>{item.address.city}</TableCell>
-                {/* <TableCell>{row.protein}</TableCell> */}
                 </TableRow>
             ))}
             </TableBody>
